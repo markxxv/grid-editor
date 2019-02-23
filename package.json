@@ -34,5 +34,8 @@
     "wysiwyg"
   ],
   "author": "Simon Epskamp",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ckeditor": "^4.11.1"
+  }
 }
